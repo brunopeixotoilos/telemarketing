@@ -6,6 +6,9 @@ Um simples resumo do uso/propósito do projeto.
 
 Um parágrafo aprofundando mais sobre o seu projeto e uma explicação geral do uso.
 
+### Link para aplicação (LIVE)
+https://telemarketing-i2qe.onrender.com/
+
 ## Utilização
 
 ### Dependencias
