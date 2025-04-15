@@ -84,7 +84,7 @@ def main():
 
         df_compras = pd.read_csv(data_file_1,infer_datetime_format=True,parse_dates=['DiaCompra'])
 
-        st.write(df_compras.head())
+        #st.write(df_compras.head())
 
         st.write('## Recência (R)')
         
